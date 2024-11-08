@@ -1,0 +1,17 @@
+C:\C_SHARP\E-Commerce\ECommerce.Database\bin\Debug\net8.0\ECommerce.Database.deps.json
+C:\C_SHARP\E-Commerce\ECommerce.Database\bin\Debug\net8.0\ECommerce.Database.dll
+C:\C_SHARP\E-Commerce\ECommerce.Database\bin\Debug\net8.0\ECommerce.Database.pdb
+C:\C_SHARP\E-Commerce\ECommerce.Database\obj\Debug\net8.0\ECommerce.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_SHARP\E-Commerce\ECommerce.Database\obj\Debug\net8.0\ECommerce.Database.AssemblyInfoInputs.cache
+C:\C_SHARP\E-Commerce\ECommerce.Database\obj\Debug\net8.0\ECommerce.Database.AssemblyInfo.cs
+C:\C_SHARP\E-Commerce\ECommerce.Database\obj\Debug\net8.0\ECommerce.Database.csproj.CoreCompileInputs.cache
+C:\C_SHARP\E-Commerce\ECommerce.Database\obj\Debug\net8.0\ECommerce.Database.dll
+C:\C_SHARP\E-Commerce\ECommerce.Database\obj\Debug\net8.0\refint\ECommerce.Database.dll
+C:\C_SHARP\E-Commerce\ECommerce.Database\obj\Debug\net8.0\ECommerce.Database.pdb
+C:\C_SHARP\E-Commerce\ECommerce.Database\obj\Debug\net8.0\ref\ECommerce.Database.dll
+C:\C_SHARP\E-Commerce\ECommerce.Database\obj\Debug\net8.0\ECommerce.Database.csproj.AssemblyReference.cache
+C:\C_SHARP\E-Commerce\ECommerce.Database\bin\Debug\net8.0\ECommerce.Database.runtimeconfig.json
+C:\C_SHARP\E-Commerce\ECommerce.Database\bin\Debug\net8.0\ECommerce.Utilities.dll
+C:\C_SHARP\E-Commerce\ECommerce.Database\bin\Debug\net8.0\ECommerce.Utilities.pdb
+C:\C_SHARP\E-Commerce\ECommerce.Database\obj\Debug\net8.0\ECommerc.E3316E69.Up2Date
+C:\C_SHARP\E-Commerce\ECommerce.Database\obj\Debug\net8.0\ECommerce.Database.genruntimeconfig.cache

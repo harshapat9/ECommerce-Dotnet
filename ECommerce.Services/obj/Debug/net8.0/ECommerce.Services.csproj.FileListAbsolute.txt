@@ -1,0 +1,17 @@
+C:\C_SHARP\E-Commerce\ECommerce.Services\bin\Debug\net8.0\ECommerce.Services.deps.json
+C:\C_SHARP\E-Commerce\ECommerce.Services\bin\Debug\net8.0\ECommerce.Services.dll
+C:\C_SHARP\E-Commerce\ECommerce.Services\bin\Debug\net8.0\ECommerce.Services.pdb
+C:\C_SHARP\E-Commerce\ECommerce.Services\bin\Debug\net8.0\ECommerce.Database.dll
+C:\C_SHARP\E-Commerce\ECommerce.Services\bin\Debug\net8.0\ECommerce.Database.pdb
+C:\C_SHARP\E-Commerce\ECommerce.Services\obj\Debug\net8.0\ECommerce.Services.csproj.AssemblyReference.cache
+C:\C_SHARP\E-Commerce\ECommerce.Services\obj\Debug\net8.0\ECommerce.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_SHARP\E-Commerce\ECommerce.Services\obj\Debug\net8.0\ECommerce.Services.AssemblyInfoInputs.cache
+C:\C_SHARP\E-Commerce\ECommerce.Services\obj\Debug\net8.0\ECommerce.Services.AssemblyInfo.cs
+C:\C_SHARP\E-Commerce\ECommerce.Services\obj\Debug\net8.0\ECommerce.Services.csproj.CoreCompileInputs.cache
+C:\C_SHARP\E-Commerce\ECommerce.Services\obj\Debug\net8.0\ECommerc.156F7C36.Up2Date
+C:\C_SHARP\E-Commerce\ECommerce.Services\obj\Debug\net8.0\ECommerce.Services.dll
+C:\C_SHARP\E-Commerce\ECommerce.Services\obj\Debug\net8.0\refint\ECommerce.Services.dll
+C:\C_SHARP\E-Commerce\ECommerce.Services\obj\Debug\net8.0\ECommerce.Services.pdb
+C:\C_SHARP\E-Commerce\ECommerce.Services\obj\Debug\net8.0\ref\ECommerce.Services.dll
+C:\C_SHARP\E-Commerce\ECommerce.Services\bin\Debug\net8.0\ECommerce.Utilities.dll
+C:\C_SHARP\E-Commerce\ECommerce.Services\bin\Debug\net8.0\ECommerce.Utilities.pdb

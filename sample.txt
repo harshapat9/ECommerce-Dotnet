@@ -1,0 +1,95 @@
+class User
+{
+    +int ID 
+    +string Name 
+    +string Email 
+    +string Password
+    +Address Address
+    +Cart Cart 
+    +int CartID 
+    
+}
+
+class Cart
+{
+    +int ID
+    +User User 
+    +int UserID 
+    +List<Order> Orders 
+    +List<Product> Products 
+}
+
+class Product
+{
+    +int ID 
+    +string Name 
+    +string Description 
+    +string Category 
+    +string Brand 
+    +int Price
+    +Seller Seller 
+    +int SellerID 
+    +List<Review> Reviews
+}
+
+class Order
+{
+    +int ID
+    +Cart Cart 
+    +int CartID
+    +Payment Payment 
+    +List<Product> Products 
+}
+
+class Review
+{
+    +int Rating 
+    +string UserName 
+    +string Description 
+}
+
+class Address
+{
+    +int ID
+    +User User 
+    +int UserID 
+    +int DoorNumber 
+    +string Street 
+    +string City 
+    +int PostalCode 
+    +string Country 
+    +string LandMark 
+
+}
+
+class Seller
+{
+    +int ID 
+    +string Name 
+    +List<Product> Products 
+}
+
+class Payment
+{
+    +int ID
+    +Order Order 
+    +int OrderID 
+    +int TotalAmount 
+    +string PaymentMethod 
+}
+
+class Admin
+{
+    +int ID 
+    +string Name 
+    +string Email 
+    +string Password 
+}
+
+User *--* Address : one-to-one
+User *--* Cart : one-to-one
+Cart *--* Order : one-to-many
+Cart *--* Product : one-to-many
+Seller *--* Product : one-to-many
+Product *--* Review : one-to-many
+Order *--* Payment : one-to-one
